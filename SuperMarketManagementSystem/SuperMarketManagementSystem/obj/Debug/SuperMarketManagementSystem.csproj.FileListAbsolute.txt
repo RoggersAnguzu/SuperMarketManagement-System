@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe.config
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.exe
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\bin\Debug\SuperMarketManagementSystem.pdb
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.Form1.resources
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.Properties.Resources.resources
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.exe
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.pdb
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.AboutUs.resources
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.AddItems.resources
+C:\Users\Admin\source\repos\SuperMarketManagementSystem\SuperMarketManagementSystem\obj\Debug\SuperMarketManagementSystem.SearchItems.resources
