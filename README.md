@@ -28,8 +28,8 @@ Open the project in Visual Studio.
 Build and run the application.
 # ScreenShots
 ![aiv](https://github.com/RoggersAnguzu/SuperMarketManagement-System/assets/141458053/e138408c-164b-479c-bb62-b09272a5426d)
-![a1](https://github.com/RoggersAnguzu/SuperMarketManagement-System/assets/141458053/34412b84-c897-4316-a6c7-4ff201f651e5)
 ![a11](https://github.com/RoggersAnguzu/SuperMarketManagement-System/assets/141458053/7944aa12-43f9-436a-916b-e0e2eab2d5c0)
+![a1](https://github.com/RoggersAnguzu/SuperMarketManagement-System/assets/141458053/34412b84-c897-4316-a6c7-4ff201f651e5)
 ![a111](https://github.com/RoggersAnguzu/SuperMarketManagement-System/assets/141458053/1ebcd988-febd-470a-8aab-4d1cbca04ef7)
 To mention but  a few
 
